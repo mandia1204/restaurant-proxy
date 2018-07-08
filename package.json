@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StartProxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node StartProxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
